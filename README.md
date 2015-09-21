@@ -1,6 +1,8 @@
 Stub-O-Matic
 ============
 
+[![Join the chat at https://gitter.im/SpectoLabs/mirage](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SpectoLabs/mirage?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/Stub-O-Matic/stubo-app.png?branch=master)](https://travis-ci.org/Stub-O-Matic/stubo-app)
 [![Documentation Status](https://readthedocs.org/projects/stubo-app/badge/?version=latest)](https://readthedocs.org/projects/stubo-app/?badge=latest)
 
